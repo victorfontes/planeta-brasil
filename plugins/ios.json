@@ -1,0 +1,57 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "framework": {
+            "CoreGraphics.framework": {
+                "false": 1
+            },
+            "libsqlite3.dylib": {
+                "false": 1
+            },
+            "Social.framework": {
+                "true": 1
+            },
+            "Accounts.framework": {
+                "true": 1
+            },
+            "AdSupport.framework": {
+                "true": 1
+            },
+            "Security.framework": {
+                "true": 1
+            }
+        },
+        "config.xml": {
+            "/*": {
+                "<access origin=\"https://m.facebook.com\" />": 1,
+                "<access origin=\"https://graph.facebook.com\" />": 1,
+                "<access origin=\"https://api.facebook.com\" />": 1,
+                "<access origin=\"https://*.fbcdn.net\" />": 1,
+                "<access origin=\"https://*.akamaihd.net\" />": 1,
+                "<feature name=\"FacebookConnect\"><param name=\"ios-package\" value=\"FacebookConnectPlugin\" /><param name=\"onload\" value=\"true\" /></feature>": 1
+            }
+        },
+        "*-Info.plist": {
+            "FacebookAppID": {
+                "<string>458469880919331</string>": 1
+            },
+            "FacebookDisplayName": {
+                "<string>planeta-brasil-test</string>": 1
+            },
+            "CFBundleURLTypes": {
+                "<array><dict><key>CFBundleURLSchemes</key><array><string>fb458469880919331</string></array></dict></array>": 1
+            }
+        }
+    },
+    "installed_plugins": {
+        "com.phonegap.plugins.facebookconnect": {
+            "APP_ID": "458469880919331",
+            "APP_NAME": "planeta-brasil-test",
+            "PACKAGE_NAME": "io.cordova.hellocordova"
+        }
+    },
+    "dependent_plugins": {}
+}

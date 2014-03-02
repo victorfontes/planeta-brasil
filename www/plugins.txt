@@ -1,0 +1,187 @@
+at.mindstorm.cdvidletimer - Idle timer plugin for Cordova iOS
+com.ankamagames.plugins.sysinfo - 
+		This plugin allows you to get various system information like memory, cpu...
+	
+com.blackberry.app - BlackBerry 10 Application APIs
+com.blackberry.bbm.platform - BlackBerry 10 BBM Platform APIs
+com.blackberry.community.barcodescanner - BlackBerry 10 Community Contributed API to scan barcodes
+com.blackberry.community.clipboard - BlackBerry 10 Community Contributed API to access the system clipboard
+com.blackberry.community.curl - BlackBerry 10 Community Contributed API to make network calls with CURL
+com.blackberry.community.deviceinfoplugin - BlackBerry 10 Community Contributed API to get hardware and network information from the device
+com.blackberry.community.extractzipfile - BlackBerry 10 Community Contributed API to unzip files
+com.blackberry.community.lowlatencyaudio - BlackBerry 10 Community Contributed API to support Low Latency Audio for .WAV files using OpenAL
+com.blackberry.community.preventsleep - BlackBerry 10 Community Contributed API to keep the screen on
+com.blackberry.community.screendisplay - BlackBerry 10 Community Contributed API to get Screen Hardware information
+com.blackberry.community.thumbnail - BlackBerry 10 Community Contributed API to resize images
+com.blackberry.community.vibration - BlackBerry 10 Community Contributed API to use the Vibration control
+com.blackberry.connection - BlackBerry 10 Connection APIs
+com.blackberry.identity - BlackBerry 10 Identity APIs
+com.blackberry.invoke - BlackBerry 10 Invoke APIs
+com.blackberry.invoke.card - BlackBerry 10 Invoke Card APIs
+com.blackberry.invoked - BlackBerry 10 Invoked APIs
+com.blackberry.io - BlackBerry 10 I/O APIs
+com.blackberry.io.filetransfer - BlackBerry 10 File Transfer APIs
+com.blackberry.jpps - BlackBerry 10 JPPS Library
+com.blackberry.notification - BlackBerry 10 Notification APIs
+com.blackberry.payment - BlackBerry 10 Payment APIs
+com.blackberry.pim.calendar - BlackBerry 10 Calendar APIs
+com.blackberry.pim.contacts - BlackBerry 10 Contacts APIs
+com.blackberry.pim.lib - BlackBerry 10 PIM Library
+com.blackberry.push - BlackBerry 10 Push APIs
+com.blackberry.sensors - BlackBerry 10 Sensors APIs
+com.blackberry.system - BlackBerry 10 System APIs
+com.blackberry.ui.contextmenu - BlackBerry 10 Context Menu APIs
+com.blackberry.ui.cover - BlackBerry 10 Cover APIs
+com.blackberry.ui.dialog - BlackBerry 10 Dialog APIs
+com.blackberry.ui.toast - BlackBerry 10 Toast APIs
+com.blackberry.user.identity - BlackBerry 10 User Identity APIs
+com.blackberry.utils - BlackBerry 10 Utilities Library
+com.byhook.cordova.chromelauncher - Launches the Chrome web browser in iOS and Android.
+com.byhook.cordova.wifilauncher - Wifi Launcher Plugin
+com.ccsoft.plugin.cordovafacebook - Cordova plugin that handles Facebook integration in mobile apps.
+com.chariotsolutions.cordova.plugin.keyboard_toolbar_remover - Allows the Previous, Next and Done buttons in an iOS web view to be hidden
+com.chariotsolutions.nfc.plugin - Near Field Communication (NFC) Plugin. Read and write NDEF messages to tags or share NDEF messages with peers.
+com.chariotsolutions.toast.plugin - Toasty - PhoneGap Toast Notification Plugin ===========================================
+com.cmackay.plugins.googleanalytics - Plugin for Google Analytics SDK 3.0 (Android, iOS)
+com.cmpsoft.mobile.button - Button plugin description
+com.cmpsoft.mobile.plugin.download - download plugin description
+com.cmpsoft.mobile.plugin.exitapp - ExitApp plugin description
+com.cmpsoft.mobile.plugin.localnotification - localnotification plugin description
+com.cmpsoft.mobile.plugin.pushnotification - pushNotification plugin description
+com.contraterrene.gapfile - GapFile provides a set of convenience wrapper functions for the Cordova file API.
+com.couchbase.lite.phonegap - Install Couchbase Lite in your app to enable JSON sync.
+com.danielcwilson.plugins.googleanalytics - Cordova (PhoneGap) Plugin to connect to the native Google's Universal Analytics SDK 3.0
+com.google.androidsupport - This is a simple Cordova plugin that adds the Android Support v4 client library to your app.
+com.google.playservices - This is a simple Cordova plugin that adds the Google Play Services (currently v9) client library to your app.
+com.hipmob.android.phonegap.plugin - Hipmob provides an in-app live chat and helpdesk for mobile apps.
+com.hipmob.ios.phonegap.plugin - Hipmob provides in-app live chat and helpdesk for mobile apps.
+com.infobip.mpay - Centili Mobile Payments Plugin
+com.infobip.push.cordova - Infobip Push Notification Plugin for Android and iOS
+com.ios.cordova-idfa - Identifier for Advertisers (IDFA) Plugin for iOS > 6
+com.jamiestarke.webviewdebug - Enables debugging of WebViews within Android for Cordova Apps
+com.manueldeveloper.volume-buttons - Cordova plugin which notifies when the user presses the volume buttons of the device
+com.megster.cordova.bluetoothserial - Bluetooth Serial Communication Plugin
+com.megster.cordova.rfduino - Cordova Plugin for RFduino
+com.mirasense.scanditsdk.plugin - BarcodeScannerPlugin ====================
+com.mobbu.cordova.cesg.clearpasteboard - Cordova plugin that automatically clears the pasteboard on app background to comply with CESG Guidelines and prevents users from copying data out of your app. Works on iOS, Android, BB10.
+com.mobbu.cordova.cesg.masksnapshot - Cordova plugin to remove snapshot or window cover taken on app going into background to comply with CESG Guidelines and provide additional security. Works with iOS, BB10.
+com.mobileapptracking.matplugin - This plugin allows you to track installs and events using MobileAppTracking.
+com.passslot.cordova.plugin.passbook - This plugin allows you to add passes to Passbook
+com.patrickheneise.cordova.statusbar - Cordova Status Bar Plugin
+com.phonegap.moxtraintegration - Moxtra Functionality Integrated
+com.phonegap.plugins.barcodescanner - Scans Barcodes.
+com.phonegap.plugins.cdvplugintwitter - A quick adaption of the previous Twitter plugin to work with Cordova 3.0.0+
+com.phonegap.plugins.facebookconnect.wp8 - 
+      <p>This facebook plugin uses Facebook SDK for .NET and compatible with FacebookConnect plugin.</p>
+    
+com.phonegap.plugins.mapkit - MapKit plugin for iOS and Android =================================
+com.photokandy.nativecontrols - Native Controls (alpha; iOS 7 only for now)
+com.pixelcode.phonegap.appirater - Cordova plugin to use the Appirater iOS dialog.
+com.plidstone.phonegap.plugins.video-thumbnail - A plugin that allows a user to select a thumbnail from a given video, the video URL is passed to the plugin and a base64 encoded image is sent back, Cordova 3.0.0+
+com.polyvi.plugins.weibo - Weibo plugin for Apache Cordova
+com.randdusing.bluetoothle - Use the Bluetooth Low Energy plugin to connect your Phonegap app to new Bluetooth devices like heart rate monitors, thermometers, etc...
+com.red_folder.phonegap.plugin.backgroundservice - 
+        Framework code that allows the development and operation of an Android Background Service.
+    
+com.red_folder.phonegap.plugin.backgroundservice.sample - 
+        Sample service to demonstrate the use of the Cordova Android Background Service
+    
+com.risingj.cordova.livetiles - Cordova plugin for updating tiles on WP7 + WP8
+com.risingj.cordova.maplauncher - Cordova plugin launching the maps application with directions, a landmark, or search term.
+com.risingj.cordova.socialshare - Cordova plugin for sharing links, and text to social networks.
+com.scringo.cordova.plugin.scringo - Now you can create and manage your mobile community with Scringo for Cordova. For more information go to http://www.scringo.com
+com.shazron.cordova.plugin.keychainutil - This plugin allows your app access to the iOS KeyChain from Cordova. See: https://developer.apple.com/library/mac/documentation/security/conceptual/keychainServConcepts/iPhoneTasks/iPhoneTasks.html
+com.simonmacdonald.imeiplugin - This plugin allows your to get hold of the IMEI number from an android device. Written by Simon MacDonald, updated to Cordova 3 by Nico Maas
+com.simonmacdonald.telephonenumber - This plugin allows your to get hold of the telephone number from an android device
+com.smartmobilesoftware.inappbilling - Use this In-app Billing plugin to sell digital goods, including one-time items and recurring subscriptions from your Cordova application. Main repo with full documentation located at: https://github.com/poiuytrez/AndroidInAppBilling
+com.testflightapp.cordova-plugin - Cordova plugin for the TestFlight SDK 2.0
+com.tokbox.cordova.opentok - Add live video streaming to your Cordova Application
+com.verso.cordova.clipboard - Clipboard management plugin for Cordova/PhoneGap
+com.wonkystar.phonegap.infantium - Infantium SDK Plugin for Phonegap
+de.appplant.cordova.plugin.background-mode - A bunch of background mode plugins for Cordova 3.x.x
+de.appplant.cordova.plugin.badge - A bunch of badge number plugins for Cordova 3.x.x
+de.appplant.cordova.plugin.email-composer - A bunch of email composition plugins for Cordova 3.x.x
+de.appplant.cordova.plugin.hidden-statusbar-overlay - Cordova 3.x.x plugin to hide the statusbar and overlay on iOS
+de.appplant.cordova.plugin.local-notification - A bunch of local-notification plugins for Cordova 3.x.x
+de.appplant.cordova.plugin.local-notifications - A bunch of local-notification plugins for Cordova 3.x.x
+de.appplant.cordova.plugin.printer - A bunch of printig plugins for Cordova 3.x.x
+emailcomposer - 
+    A Cordova plugin for composing new e-mail messages on iOS devices.  
+    Supports HTML formatted messages and file attachments.
+  
+fr.spirotron.cordova.ios.disableshaketoedit - Disables iOS shake to undo feature in all input fields.
+fr.spirotron.cordova.sleepcontrol - Allows enabling or disabling device sleep.
+in.girish.datagram - UDP Plugin which supports node.js dgram API
+jp.wizcorp.wizspinnerplugin - This plugin allows you to create native spinners & loaders above your HTML application layer.
+me.apla.cordova.app-preferences - Application preferences plugin
+me.apla.cordova.share-social - Cordova social sharing plugin
+net.avantic.diagnosticplugin - Cordova Diagnostic Plugin
+nl.sylvain.cordova.osc - cordova-osc-plugin ================== This is a very basic OSC plugin for cordova
+org.apache.cordova.battery-status - Cordova Battery Plugin
+org.apache.cordova.camera - Cordova Camera Plugin
+org.apache.cordova.console - Cordova Console Plugin
+org.apache.cordova.contacts - Cordova Contacts Plugin
+org.apache.cordova.core.audiohandler - Cordova Media Plugin
+org.apache.cordova.core.contacts - no description provided
+org.apache.cordova.core.dialogs - Cordova Notification Plugin
+org.apache.cordova.device - Cordova Device Plugin
+org.apache.cordova.device-motion - Cordova Device Motion Plugin
+org.apache.cordova.device-orientation - Cordova Device Orientation Plugin
+org.apache.cordova.dialogs - Cordova Notification Plugin
+org.apache.cordova.file - Cordova File Plugin
+org.apache.cordova.file-transfer - Cordova File Transfer Plugin
+org.apache.cordova.geolocation - Cordova Geolocation Plugin
+org.apache.cordova.globalization - Cordova Globalization Plugin
+org.apache.cordova.inappbrowser - Cordova InAppBrowser Plugin
+org.apache.cordova.keyboard - Cordova Keyboard Plugin
+org.apache.cordova.media - Cordova Media Plugin
+org.apache.cordova.media-capture - Cordova Media Capture Plugin
+org.apache.cordova.network-information - Cordova Network Information Plugin
+org.apache.cordova.plugin.softkeyboard - Controls Soft Keyboard on touch devices (so far only Android).
+org.apache.cordova.speech.speechsynthesis - Cordova Speech Synthesis Plugin
+org.apache.cordova.splashscreen - Cordova Splashscreen Plugin
+org.apache.cordova.statusbar - Cordova StatusBar Plugin
+org.apache.cordova.vibration - Cordova Vibration Plugin
+org.arielext.mp3scan - Android mp3scanner for Cordova
+org.arielext.sls - Android Simple Last.FM Scrobbler for Cordova
+org.bloxlab.barcodescanner - Scans barcodes using the camera for WP8 devices.
+org.bnaya.facebookgap - Facebook sdk plugin
+org.chromium.common - no description provided
+org.chromium.frameworks.googleopensource - This plugin adds the Google Open Source iOS framework to a project.
+org.chromium.frameworks.googleplus - This plugin adds the Google Plus iOS framework to a project.
+org.chromium.identity - OAuth2 authentication for Android and iOS. On Android, it uses Google Play Services, and on iOS it uses InAppBrowser.
+org.chromium.notifications - Plugin for showing notifications on Android.
+org.chromium.polyfill.blob_constructor - blob-constructor ================
+org.chromium.runtime - no description provided
+org.chromium.socket - Client and server sockets for Android and iOS.
+org.chromium.storage - Provides an implementation chrome.storage.local and chrome.storage.sync (but does not actually sync).
+org.chromium.syncfilesystem - Refer to docs at: [https://developer.chrome.com/apps/syncFileSystem.html](https://developer.chrome.com/apps/syncFileSystem.html)
+org.devgeeks.canvas2imageplugin - This plugin allows you to save the contents of an HTML canvas tag to the iOS Photo Library from your app.
+org.devgeeks.volumeslider - Show a volume slider to change the volume of the app without the physical buttons
+org.jboss.aerogear.cordova.crypto - 
+    This plugin mimics the api of the aerogear-js crypto functions as close as possible, but delegates the work to the
+    native implementations
+  
+org.jboss.aerogear.cordova.geo - 
+    This plugin is a collection of tools to make you live easier when using geo posistioning. It provides options to easly create maps that are based openlayers and adds the posiblity to monitor geo fences. 
+  
+org.jboss.aerogear.cordova.otp - Generates a one time password
+org.jboss.aerogear.cordova.push - 
+    This plugin allows your application to receive push notifications on both Android and iOS devices. Using the
+    AeroGear Unified Push Server.
+  
+org.jhurliman.cordova.gyroscope - Gyroscope Plugin
+org.pushandplay.cordova.apprate - This plugin provide the rate this app functionality into your Cordova/Phonegap application
+org.smile.websqldatabase.initializer - WebSqlDatabase initializer
+org.smile.websqldatabase.wpdb - WebSqlDatabase implementation for Windows Phone
+re.notifica.cordova - 
+    This plugin allows your application to register for, receive and handle push notifications with Notificare on both Android and iOS devices.
+  
+se.sanitarium.cordova.exitapp - Implements navigator.app.exitApp on WP8
+uk.co.cv-library.plugins.dropboxchooser - 
+        This plugin allows your application to use the Dropbox Chooser
+    
+uk.co.whiteoctober.cordova.appversion - 
+        This plugin will return the version of your App that you have set in
+        packaging it. I.e. it will always match the version in the app store.
+    
