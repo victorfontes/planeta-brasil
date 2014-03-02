@@ -31,7 +31,8 @@
                 "<access origin=\"https://api.facebook.com\" />": 1,
                 "<access origin=\"https://*.fbcdn.net\" />": 1,
                 "<access origin=\"https://*.akamaihd.net\" />": 1,
-                "<feature name=\"FacebookConnect\"><param name=\"ios-package\" value=\"FacebookConnectPlugin\" /><param name=\"onload\" value=\"true\" /></feature>": 1
+                "<feature name=\"FacebookConnect\"><param name=\"ios-package\" value=\"FacebookConnectPlugin\" /><param name=\"onload\" value=\"true\" /></feature>": 1,
+                "<feature name=\"PushPlugin\"><param name=\"ios-package\" value=\"PushPlugin\" /></feature>": 1
             }
         },
         "*-Info.plist": {
@@ -50,6 +51,9 @@
         "com.phonegap.plugins.facebookconnect": {
             "APP_ID": "458469880919331",
             "APP_NAME": "planeta-brasil-test",
+            "PACKAGE_NAME": "io.cordova.hellocordova"
+        },
+        "com.phonegap.plugins.PushPlugin": {
             "PACKAGE_NAME": "io.cordova.hellocordova"
         }
     },

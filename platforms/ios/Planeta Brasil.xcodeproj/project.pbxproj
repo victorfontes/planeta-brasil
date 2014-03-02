@@ -44,6 +44,8 @@
 		5AD466361E9B49DDA0533E80 /* Accounts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C27C98903E7E4F5996AF2E87 /* Accounts.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		FE7FBFC302A34F1785E3CACD /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1709D2C6DE6C4F5E9A867DAA /* AdSupport.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		F360240644734853AF0BEB1F /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1BD8A4EE3349446D9D445780 /* Security.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		5752381F60F64E028B2D7FEC /* AppDelegate+notification.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F5D1F1F103B4BF2AE1E5E20 /* AppDelegate+notification.m */; };
+		548CFEC5D41D44D1AA794B76 /* PushPlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = A44A2821704F49F2B6835DAD /* PushPlugin.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -115,6 +117,10 @@
 		C27C98903E7E4F5996AF2E87 /* Accounts.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "Accounts.framework"; path = "System/Library/Frameworks/Accounts.framework"; sourceTree = SDKROOT; fileEncoding = 4; };
 		1709D2C6DE6C4F5E9A867DAA /* AdSupport.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "AdSupport.framework"; path = "System/Library/Frameworks/AdSupport.framework"; sourceTree = SDKROOT; fileEncoding = 4; };
 		1BD8A4EE3349446D9D445780 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "Security.framework"; path = "System/Library/Frameworks/Security.framework"; sourceTree = SDKROOT; fileEncoding = 4; };
+		4F5D1F1F103B4BF2AE1E5E20 /* AppDelegate+notification.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "AppDelegate+notification.m"; path = "com.phonegap.plugins.PushPlugin/AppDelegate+notification.m"; sourceTree = "<group>"; fileEncoding = 4; };
+		A44A2821704F49F2B6835DAD /* PushPlugin.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "PushPlugin.m"; path = "com.phonegap.plugins.PushPlugin/PushPlugin.m"; sourceTree = "<group>"; fileEncoding = 4; };
+		F2FA42A094494AC1A0E1CA3D /* AppDelegate+notification.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "AppDelegate+notification.h"; path = "com.phonegap.plugins.PushPlugin/AppDelegate+notification.h"; sourceTree = "<group>"; fileEncoding = 4; };
+		A270837A0A1E4DB1A97BF886 /* PushPlugin.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "PushPlugin.h"; path = "com.phonegap.plugins.PushPlugin/PushPlugin.h"; sourceTree = "<group>"; fileEncoding = 4; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -247,6 +253,10 @@
 			children = (
 				B62BF30B0CE8460285F19898 /* FacebookConnectPlugin.m */,
 				4C1AF80D47504EACA6D1A743 /* FacebookConnectPlugin.h */,
+				4F5D1F1F103B4BF2AE1E5E20 /* AppDelegate+notification.m */,
+				A44A2821704F49F2B6835DAD /* PushPlugin.m */,
+				F2FA42A094494AC1A0E1CA3D /* AppDelegate+notification.h */,
+				A270837A0A1E4DB1A97BF886 /* PushPlugin.h */,
 			);
 			name = Plugins;
 			path = "Planeta Brasil/Plugins";
@@ -442,6 +452,8 @@
 				1D3623260D0F684500981E51 /* AppDelegate.m in Sources */,
 				302D95F114D2391D003F00A1 /* MainViewController.m in Sources */,
 				17E147B624DE4473A42267F3 /* FacebookConnectPlugin.m in Sources */,
+				5752381F60F64E028B2D7FEC /* AppDelegate+notification.m in Sources */,
+				548CFEC5D41D44D1AA794B76 /* PushPlugin.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
